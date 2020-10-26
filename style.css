@@ -271,7 +271,7 @@ h2+p {
 
 .legend-bg {
     align-self:center;
-    background-image: url(/img/Vector_Smart_Object.png);
+    background-image: url(img/Vector_Smart_Object.png);
     background-repeat: no-repeat;
     text-align: center;
     width: 470px;
@@ -290,7 +290,7 @@ h2+p {
 
 /* footer */
 .footer {
-    background-image: url(/img/Rectangle_1.jpg);
+    background-image: url(img/Rectangle_1.jpg);
 }
 
 .copyright {
